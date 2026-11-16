@@ -37,10 +37,7 @@
 
 ### 方法1：Muse で使う（おすすめ）
 
-渡し方は2通りあります。どちらでも、あとは「このツールを導入して」と伝えるだけで、あなたの Muse がステップバイステップで導入を進めてくれます（設定の用意、暗号化フォームへの入力の案内、常駐化、自動復旧の設定、動作確認まで）。
-
-- **zip を送る**：この zip を、そのまま自分の Muse に送ってください
-- **GitHub の URL を伝える**：[github.com/YukiYukiVirtual/youtube-discord-notifier](https://github.com/YukiYukiVirtual/youtube-discord-notifier) の URL を自分の Muse に伝えてください
+**GitHub の URL を、自分の Muse に伝えてください**：[github.com/YukiYukiVirtual/youtube-discord-notifier](https://github.com/YukiYukiVirtual/youtube-discord-notifier) を渡して「このツールを導入して」と言うだけです。あとはあなたの Muse がステップバイステップで導入を進めてくれます（設定の用意、暗号化フォームへの入力の案内、常駐化、自動復旧の設定、動作確認まで）。
 
 あなたがやることは、主に次の2つだけです：
 
